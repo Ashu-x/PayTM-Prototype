@@ -12,4 +12,4 @@ This project is a simplified version of PayTM, built using the MERN (MongoDB, Ex
 **Frontend:** React.js  
 **Backend:** Node.js , Express  
 **Database:** MongoDB  
-**Styling:** CSS
+**Styling:** Tailwind
